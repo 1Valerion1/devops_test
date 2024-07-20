@@ -1,0 +1,1 @@
+0 8 * * * /home/unix/Desktop/DevOps/disk_space.sh
